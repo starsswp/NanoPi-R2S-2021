@@ -1,3 +1,5 @@
+本仓库fork DHDAXCW/NanoPi-R2S-2021 修改了部分配置，仅供自己使用
+
 # 中文简体 | [English](https://github.com/starsswp/NanoPi-R2S-2021/blob/main/EngLish.md)
 # NanoPi-R2S-2021 每天自动更新插件和内核版本。
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
@@ -9,12 +11,7 @@
 ### - beta：高大全
 ### - stable：稳定精简
 ### - WANLAN：互换 高大全
-- ~~电报群：https://t.me/DHDAXCW
-# 赏个鸡腿吧
- ![捐赠](data/2.jpg?raw=true "Title")
-### 如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
-# 插件展示
- ![插件展示](data/20.jpg?raw=true "Title")~~
+
 ## 提示
  - 我的固件加了动态超频，不管热不热这是取决后台运行程序在跑什么。
  - 感觉很热  就加风扇，推荐 风扇6cm×6cm，薄1cm，usb也行 或者端子线zh1.5
